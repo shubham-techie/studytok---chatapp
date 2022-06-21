@@ -9,11 +9,10 @@
 
 
 ### Home Screen -
-![image](https://user-images.githubusercontent.com/85562020/174847660-dfc892ec-f65c-4e65-8fff-e7ae947ddf51.png)
+<img src="https://user-images.githubusercontent.com/85562020/174878381-43e1fb7d-08f3-4b1a-8bda-c871086396e7.png" width="800">
 
 ### Chat room -
-![image](https://user-images.githubusercontent.com/85562020/174848880-43da82e7-f180-42d3-a395-521186698b7f.png)
-
+<img src="https://user-images.githubusercontent.com/85562020/174878510-4d5b30df-c260-4e51-bfcf-74776625df77.png" width="800">
 
 ### Cloning the repository -
 1. Clone the repository : ```git clone https://github.com/shubham-techie/studytok-chatapp.git```
