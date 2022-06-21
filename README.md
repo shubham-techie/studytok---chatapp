@@ -18,7 +18,7 @@
 1. Clone the repository : ```git clone https://github.com/shubham-techie/studytok-chatapp.git```
 2. Move into the directory : ```cd studytok-chatapp```
 3. Creating a virtual environment : First install virtual environment ```pip install virtualenv``` and then create virtual environment ```virtualenv venv```
-4. Activate the virtual environment : ```venv/Scripts/activate```  (Try this if this isn't working : ```cd venv/Scripts``` --> ```activate``` --> ```cd../..```)
+4. Activate the virtual environment : ```venv/Scripts/activate```  (Try this if the previous one isn't working : ```cd venv/Scripts``` --> ```activate``` --> ```cd../..```)
 5. Install the required packages : ```pip install -r requirements.txt```                                                                                                
 
 7. (Now, I have set the environment variables for SECRET_KEY and DATABASE CREDENTIALS. So, you need to generate SECRET_KEY and change the settings for Database file)
