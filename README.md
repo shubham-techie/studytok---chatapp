@@ -1,5 +1,5 @@
 ## #Studytok- A discord-like chatapp to make communities for study discussion.
-
+### Deployed version - https://studytok-chatapp.herokuapp.com/
 ### Functionalites -
 1. Users can create rooms to discuss on some specific topics.
 2. Host/Owner of the room can delete or update the room details as required.
