@@ -30,4 +30,4 @@
 ![image](https://user-images.githubusercontent.com/85562020/174847660-dfc892ec-f65c-4e65-8fff-e7ae947ddf51.png)
 
 ### Chat room -
-![image](https://user-images.githubusercontent.com/85562020/174848162-48ec6c93-ca5e-45c1-aabd-f96781775502.png)
+![image](https://user-images.githubusercontent.com/85562020/174848880-43da82e7-f180-42d3-a395-521186698b7f.png)
