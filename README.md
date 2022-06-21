@@ -8,10 +8,10 @@
 4. All rooms are grouped into topics. Users can also search a room using topic/ room_name/ room_description.
 
 
-### Home Screen -
+## Home Screen -
 <img src="https://user-images.githubusercontent.com/85562020/174878381-43e1fb7d-08f3-4b1a-8bda-c871086396e7.png" width="800">
 
-### Chat room -
+## Chat room -
 <img src="https://user-images.githubusercontent.com/85562020/174878510-4d5b30df-c260-4e51-bfcf-74776625df77.png" width="800">
 
 ### Cloning the repository -
