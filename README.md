@@ -1,10 +1,18 @@
 ## #Studytok- A discord-like chatapp to make communities for study discussion.
 #### Deployed version - https://studytok-chatapp.herokuapp.com/
+
 ### Functionalites -
 1. Users can create rooms to discuss on some specific topics.
 2. Host/Owner of the room can delete or update the room details as required.
 3. User is also provided to delete their messages.
 4. All rooms are grouped into topics. Users can also search a room using topic/ room_name/ room_description.
+
+
+### Home Screen -
+![image](https://user-images.githubusercontent.com/85562020/174847660-dfc892ec-f65c-4e65-8fff-e7ae947ddf51.png)
+
+### Chat room -
+![image](https://user-images.githubusercontent.com/85562020/174848880-43da82e7-f180-42d3-a395-521186698b7f.png)
 
 
 ### Cloning the repository -
@@ -24,10 +32,3 @@
 8.  Set the ```DEBUG=True``` in settings.py file.
 9.  Generate SQL executable commands using ```python manage.py makemigrations``` and create database using ```python manage.py migrate```.
 10.  Now, the app is ready to go. Run the app : ```python manage.py runserver```
-
-
-### Home Screen -
-![image](https://user-images.githubusercontent.com/85562020/174847660-dfc892ec-f65c-4e65-8fff-e7ae947ddf51.png)
-
-### Chat room -
-![image](https://user-images.githubusercontent.com/85562020/174848880-43da82e7-f180-42d3-a395-521186698b7f.png)
